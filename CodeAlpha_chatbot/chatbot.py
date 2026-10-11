@@ -1,4 +1,4 @@
-```python
+
 def chatbot():
     print("Chatbot: Hello! Type 'bye' to exit.")
 
@@ -20,4 +20,4 @@ def chatbot():
 
 
 chatbot()
-```
+
